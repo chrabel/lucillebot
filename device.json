@@ -3,8 +3,8 @@
     {
       "id": "dd40af71db049dc78d6bddbdf69125c5",
       "device": {
-        "url": "https://wdm-a.wbx2.com/wdm/api/v1/devices/eda92aed-7ada-4876-9398-7d4460b6b12d",
-        "webSocketUrl": "wss://mercury-connection-a.wbx2.com/v1/apps/wx2/registrations/84f4abda-3446-44d4-8495-9dd059415207/messages",
+        "url": "https://wdm-a.wbx2.com/wdm/api/v1/devices/a7f6113f-bc4f-4516-ab49-91d7771891cd",
+        "webSocketUrl": "wss://mercury-connection-a.wbx2.com/v1/apps/wx2/registrations/9c6f5bf1-388c-4502-b8e4-c3259158a0a6/messages",
         "services": {
           "conversationServiceUrl": "https://conv-a.wbx2.com/conversation/api/v1",
           "roomServiceUrl": "https://lyra-a.wbx2.com/lyra/api/v1",
@@ -103,7 +103,7 @@
               "value": true,
               "val": "true",
               "mutable": false,
-              "lastModified": "2017-04-21T17:38:37.415Z",
+              "lastModified": "2017-05-02T22:40:20.079Z",
               "type": "DEV"
             },
             {
@@ -211,7 +211,7 @@
               "value": true,
               "val": "true",
               "mutable": false,
-              "lastModified": "2017-04-21T17:38:37.415Z",
+              "lastModified": "2017-05-02T22:40:20.079Z",
               "type": "DEV"
             },
             {
@@ -241,7 +241,7 @@
               "value": true,
               "val": "true",
               "mutable": true,
-              "lastModified": "2017-04-21T17:38:37.416Z",
+              "lastModified": "2017-05-02T22:40:20.080Z",
               "type": "DEV"
             },
             {
@@ -249,7 +249,7 @@
               "value": true,
               "val": "true",
               "mutable": false,
-              "lastModified": "2017-04-21T17:38:37.415Z",
+              "lastModified": "2017-05-02T22:40:20.079Z",
               "type": "DEV"
             },
             {
@@ -257,7 +257,7 @@
               "value": true,
               "val": "true",
               "mutable": true,
-              "lastModified": "2017-04-21T17:38:37.415Z",
+              "lastModified": "2017-05-02T22:40:20.080Z",
               "type": "DEV"
             },
             {
@@ -265,7 +265,7 @@
               "value": true,
               "val": "true",
               "mutable": false,
-              "lastModified": "2017-04-21T17:38:37.415Z",
+              "lastModified": "2017-05-02T22:40:20.079Z",
               "type": "DEV"
             },
             {
@@ -472,6 +472,17 @@
               "lastModified": "2016-10-03T20:18:02.464Z"
             },
             {
+              "key": "android-view-media",
+              "val": "true",
+              "mutable": true,
+              "group": "ALL",
+              "percentage": 100,
+              "type": "DEV",
+              "deletedTime": 0,
+              "value": true,
+              "lastModified": "2017-04-24T18:29:19.522Z"
+            },
+            {
               "key": "android-volume-control-release",
               "val": "true",
               "mutable": true,
@@ -498,7 +509,7 @@
               "value": true,
               "val": "true",
               "mutable": false,
-              "lastModified": "2017-04-21T17:38:37.415Z",
+              "lastModified": "2017-05-02T22:40:20.079Z",
               "type": "DEV"
             },
             {
@@ -831,7 +842,7 @@
               "key": "bridge-max-conv-participants",
               "val": "25",
               "mutable": true,
-              "lastModified": "2017-04-23T19:31:39.528Z",
+              "lastModified": "2017-05-03T06:03:50.403Z",
               "type": "DEV"
             },
             {
@@ -969,7 +980,7 @@
               "value": true,
               "val": "true",
               "mutable": false,
-              "lastModified": "2017-04-23T19:31:39.528Z",
+              "lastModified": "2017-05-03T06:03:50.403Z",
               "type": "DEV"
             },
             {
@@ -1083,7 +1094,7 @@
               "value": true,
               "val": "true",
               "mutable": false,
-              "lastModified": "2017-04-21T17:38:37.415Z",
+              "lastModified": "2017-05-02T22:40:20.079Z",
               "type": "DEV"
             },
             {
@@ -1096,6 +1107,17 @@
               "deletedTime": 0,
               "value": true,
               "lastModified": "2016-11-01T20:57:57.961Z"
+            },
+            {
+              "key": "desktop-auto-join",
+              "val": "true",
+              "mutable": true,
+              "group": "ALL",
+              "percentage": 100,
+              "type": "DEV",
+              "deletedTime": 0,
+              "value": true,
+              "lastModified": "2017-04-26T20:10:21.577Z"
             },
             {
               "key": "desktop-bind",
@@ -1512,7 +1534,7 @@
               "value": true,
               "val": "true",
               "mutable": false,
-              "lastModified": "2017-04-21T17:38:37.416Z",
+              "lastModified": "2017-05-02T22:40:20.081Z",
               "type": "DEV"
             },
             {
@@ -1544,7 +1566,7 @@
               "value": true,
               "val": "true",
               "mutable": true,
-              "lastModified": "2017-04-21T17:38:37.415Z",
+              "lastModified": "2017-05-02T22:40:20.079Z",
               "type": "DEV"
             },
             {
@@ -1583,11 +1605,22 @@
               "lastModified": "2017-02-22T16:43:36.228Z"
             },
             {
+              "key": "hybrid-service",
+              "val": "true",
+              "mutable": true,
+              "group": "ALL",
+              "percentage": 100,
+              "type": "DEV",
+              "deletedTime": 0,
+              "value": true,
+              "lastModified": "2017-04-27T14:23:39.890Z"
+            },
+            {
               "key": "ios-action-bar",
               "value": true,
               "val": "true",
               "mutable": false,
-              "lastModified": "2017-04-21T17:38:37.415Z",
+              "lastModified": "2017-05-02T22:40:20.079Z",
               "type": "DEV"
             },
             {
@@ -1662,7 +1695,7 @@
               "value": true,
               "val": "true",
               "mutable": true,
-              "lastModified": "2017-04-21T17:38:37.415Z",
+              "lastModified": "2017-05-02T22:40:20.079Z",
               "type": "DEV"
             },
             {
@@ -1736,7 +1769,7 @@
               "value": true,
               "val": "true",
               "mutable": true,
-              "lastModified": "2017-04-21T17:38:37.415Z",
+              "lastModified": "2017-05-02T22:40:20.079Z",
               "type": "DEV"
             },
             {
@@ -1755,7 +1788,7 @@
               "value": true,
               "val": "true",
               "mutable": true,
-              "lastModified": "2017-04-23T19:31:39.528Z",
+              "lastModified": "2017-05-03T06:03:50.403Z",
               "type": "DEV"
             },
             {
@@ -1785,7 +1818,7 @@
               "value": true,
               "val": "true",
               "mutable": true,
-              "lastModified": "2017-04-21T17:38:37.416Z",
+              "lastModified": "2017-05-02T22:40:20.080Z",
               "type": "DEV"
             },
             {
@@ -1826,7 +1859,7 @@
               "value": true,
               "val": "true",
               "mutable": false,
-              "lastModified": "2017-04-21T17:38:37.415Z",
+              "lastModified": "2017-05-02T22:40:20.079Z",
               "type": "DEV"
             },
             {
@@ -1834,7 +1867,7 @@
               "value": true,
               "val": "true",
               "mutable": true,
-              "lastModified": "2017-04-23T19:31:39.528Z",
+              "lastModified": "2017-05-03T06:03:50.403Z",
               "type": "DEV"
             },
             {
@@ -1976,7 +2009,7 @@
               "value": true,
               "val": "true",
               "mutable": true,
-              "lastModified": "2017-04-21T17:38:37.415Z",
+              "lastModified": "2017-05-02T22:40:20.080Z",
               "type": "DEV"
             },
             {
@@ -2049,11 +2082,22 @@
               "lastModified": "2016-02-02T03:52:42.785Z"
             },
             {
+              "key": "ios-view-media",
+              "val": "true",
+              "mutable": true,
+              "group": "ALL",
+              "percentage": 100,
+              "type": "DEV",
+              "deletedTime": 0,
+              "value": true,
+              "lastModified": "2017-04-24T18:29:37.954Z"
+            },
+            {
               "key": "joinhub-create-a-room",
               "value": true,
               "val": "true",
               "mutable": false,
-              "lastModified": "2017-04-21T17:38:37.415Z",
+              "lastModified": "2017-05-02T22:40:20.079Z",
               "type": "DEV"
             },
             {
@@ -2061,7 +2105,7 @@
               "value": true,
               "val": "true",
               "mutable": false,
-              "lastModified": "2017-04-21T17:38:37.415Z",
+              "lastModified": "2017-05-02T22:40:20.079Z",
               "type": "DEV"
             },
             {
@@ -2114,7 +2158,7 @@
               "key": "locus-max-roster-participants",
               "val": "25",
               "mutable": true,
-              "lastModified": "2017-04-23T19:31:39.528Z",
+              "lastModified": "2017-05-03T06:03:50.403Z",
               "type": "DEV"
             },
             {
@@ -2190,14 +2234,14 @@
               "value": false,
               "val": "false",
               "mutable": true,
-              "lastModified": "2017-04-23T19:31:39.528Z",
+              "lastModified": "2017-05-03T06:03:50.403Z",
               "type": "DEV"
             },
             {
               "key": "meet-url-max-conv-participants",
               "val": "0",
               "mutable": true,
-              "lastModified": "2017-04-23T19:31:39.528Z",
+              "lastModified": "2017-05-03T06:03:50.403Z",
               "type": "DEV"
             },
             {
@@ -2205,7 +2249,7 @@
               "value": false,
               "val": "false",
               "mutable": true,
-              "lastModified": "2017-04-23T19:31:39.528Z",
+              "lastModified": "2017-05-03T06:03:50.403Z",
               "type": "DEV"
             },
             {
@@ -2224,7 +2268,7 @@
               "value": true,
               "val": "true",
               "mutable": true,
-              "lastModified": "2017-04-23T19:31:39.528Z",
+              "lastModified": "2017-05-03T06:03:50.403Z",
               "type": "DEV"
             },
             {
@@ -2232,7 +2276,7 @@
               "value": true,
               "val": "true",
               "mutable": false,
-              "lastModified": "2017-04-21T17:38:37.415Z",
+              "lastModified": "2017-05-02T22:40:20.079Z",
               "type": "DEV"
             },
             {
@@ -2251,7 +2295,7 @@
               "value": true,
               "val": "true",
               "mutable": false,
-              "lastModified": "2017-04-21T17:38:37.415Z",
+              "lastModified": "2017-05-02T22:40:20.079Z",
               "type": "DEV"
             },
             {
@@ -2259,7 +2303,7 @@
               "value": true,
               "val": "true",
               "mutable": false,
-              "lastModified": "2017-04-21T17:38:37.415Z",
+              "lastModified": "2017-05-02T22:40:20.079Z",
               "type": "DEV"
             },
             {
@@ -2315,7 +2359,7 @@
               "value": false,
               "val": "false",
               "mutable": false,
-              "lastModified": "2017-04-23T19:31:39.528Z",
+              "lastModified": "2017-05-03T06:03:50.403Z",
               "type": "DEV"
             },
             {
@@ -2363,6 +2407,17 @@
               "lastModified": "2016-12-21T16:29:48.954Z"
             },
             {
+              "key": "provisioning-status",
+              "val": "true",
+              "mutable": true,
+              "group": "ALL",
+              "percentage": 100,
+              "type": "DEV",
+              "deletedTime": 0,
+              "value": true,
+              "lastModified": "2017-04-24T22:54:29.859Z"
+            },
+            {
               "key": "readonlyAdmin",
               "val": "true",
               "mutable": false,
@@ -2401,7 +2456,7 @@
               "value": true,
               "val": "true",
               "mutable": true,
-              "lastModified": "2017-04-21T17:38:37.415Z",
+              "lastModified": "2017-05-02T22:40:20.080Z",
               "type": "DEV"
             },
             {
@@ -2409,7 +2464,7 @@
               "value": true,
               "val": "true",
               "mutable": true,
-              "lastModified": "2017-04-21T17:38:37.415Z",
+              "lastModified": "2017-05-02T22:40:20.080Z",
               "type": "DEV"
             },
             {
@@ -2429,7 +2484,7 @@
               "value": true,
               "val": "true",
               "mutable": true,
-              "lastModified": "2017-04-23T19:31:39.528Z",
+              "lastModified": "2017-05-03T06:03:50.403Z",
               "type": "DEV"
             },
             {
@@ -2437,7 +2492,7 @@
               "value": true,
               "val": "true",
               "mutable": true,
-              "lastModified": "2017-04-21T17:38:37.416Z",
+              "lastModified": "2017-05-02T22:40:20.080Z",
               "type": "DEV"
             },
             {
@@ -2461,6 +2516,17 @@
               "deletedTime": 0,
               "value": true,
               "lastModified": "2017-04-20T14:35:17.455Z"
+            },
+            {
+              "key": "sparkboard-proxy-support-Beta",
+              "val": "true",
+              "mutable": true,
+              "group": "ALL",
+              "percentage": 0,
+              "type": "DEV",
+              "deletedTime": 0,
+              "value": true,
+              "lastModified": "2017-04-24T11:27:30.009Z"
             },
             {
               "key": "sparkboard-save-to-spark",
@@ -2618,7 +2684,7 @@
               "value": true,
               "val": "true",
               "mutable": false,
-              "lastModified": "2017-04-21T17:38:37.415Z",
+              "lastModified": "2017-05-02T22:40:20.079Z",
               "type": "DEV"
             },
             {
@@ -2626,7 +2692,7 @@
               "value": true,
               "val": "true",
               "mutable": false,
-              "lastModified": "2017-04-21T17:38:37.416Z",
+              "lastModified": "2017-05-02T22:40:20.081Z",
               "type": "DEV"
             },
             {
@@ -2758,7 +2824,7 @@
               "value": true,
               "val": "true",
               "mutable": false,
-              "lastModified": "2017-04-21T17:38:37.415Z",
+              "lastModified": "2017-05-02T22:40:20.079Z",
               "type": "DEV"
             },
             {
@@ -2777,7 +2843,7 @@
               "value": true,
               "val": "true",
               "mutable": true,
-              "lastModified": "2017-04-23T19:31:39.528Z",
+              "lastModified": "2017-05-03T06:03:50.403Z",
               "type": "DEV"
             },
             {
@@ -2854,7 +2920,7 @@
               "value": true,
               "val": "true",
               "mutable": false,
-              "lastModified": "2017-04-21T17:38:37.415Z",
+              "lastModified": "2017-05-02T22:40:20.079Z",
               "type": "DEV"
             },
             {
@@ -2885,7 +2951,7 @@
               "value": true,
               "val": "true",
               "mutable": true,
-              "lastModified": "2017-04-23T19:31:39.528Z",
+              "lastModified": "2017-05-03T06:03:50.403Z",
               "type": "DEV"
             },
             {
@@ -2893,7 +2959,7 @@
               "value": true,
               "val": "true",
               "mutable": true,
-              "lastModified": "2017-04-23T19:31:39.528Z",
+              "lastModified": "2017-05-03T06:03:50.403Z",
               "type": "DEV"
             },
             {
@@ -2927,7 +2993,7 @@
               "value": true,
               "val": "true",
               "mutable": false,
-              "lastModified": "2017-04-23T19:31:39.520Z",
+              "lastModified": "2017-05-03T06:03:50.396Z",
               "type": "DEV"
             },
             {
@@ -2935,7 +3001,7 @@
               "value": true,
               "val": "true",
               "mutable": false,
-              "lastModified": "2017-04-23T19:31:39.520Z",
+              "lastModified": "2017-05-03T06:03:50.396Z",
               "type": "DEV"
             },
             {
@@ -2943,7 +3009,7 @@
               "value": true,
               "val": "true",
               "mutable": false,
-              "lastModified": "2017-04-23T19:31:39.520Z",
+              "lastModified": "2017-05-03T06:03:50.396Z",
               "type": "DEV"
             },
             {
@@ -2951,7 +3017,7 @@
               "value": true,
               "val": "true",
               "mutable": false,
-              "lastModified": "2017-04-23T19:31:39.520Z",
+              "lastModified": "2017-05-03T06:03:50.396Z",
               "type": "DEV"
             }
           ],
@@ -2961,7 +3027,7 @@
               "value": true,
               "val": "true",
               "mutable": true,
-              "lastModified": "2017-04-23T19:31:39.527Z",
+              "lastModified": "2017-05-03T06:03:50.403Z",
               "type": "USER"
             },
             {
@@ -2969,7 +3035,7 @@
               "value": true,
               "val": "true",
               "mutable": true,
-              "lastModified": "2017-04-23T19:31:39.528Z",
+              "lastModified": "2017-05-03T06:03:50.403Z",
               "type": "USER"
             },
             {
@@ -2977,12 +3043,12 @@
               "value": true,
               "val": "true",
               "mutable": true,
-              "lastModified": "2017-04-23T19:31:39.528Z",
+              "lastModified": "2017-05-03T06:03:50.403Z",
               "type": "USER"
             }
           ]
         },
-        "modificationTime": "2017-04-23T19:31:39.520Z",
+        "modificationTime": "2017-05-03T06:03:50.396Z",
         "deviceSettings": {},
         "deviceSettingsString": "{}",
         "showSupportText": false,
